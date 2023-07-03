@@ -1,9 +1,3 @@
-//
-//  CupcakeCornerApp.swift
-//  CupcakeCorner
-//
-//  Created by Hiroshi Inoue on R 5/07/03.
-//
 
 import SwiftUI
 
